@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-**Movie Recommendation System** is a Gradio-based web app that recommends movies based on **content-based filtering** and **collaborative filtering**.  
+**This Movie Recommendation System** is a Gradio-based web app that recommends movies based on **content-based filtering** and **collaborative filtering**.  
 This tool helps you discover similar movies by either using the movie's attributes (e.g., title, genre) or by analyzing user ratings and finding similarities between movies.
 
 ---
